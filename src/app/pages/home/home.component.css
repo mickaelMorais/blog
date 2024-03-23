@@ -1,0 +1,11 @@
+section{
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+}
+.big{
+  width: 35%;
+}
+.others{
+  width: 30%;
+}
